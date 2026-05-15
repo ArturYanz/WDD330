@@ -1,0 +1,23 @@
+body {
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+button {
+    width: auto;
+    height: 2rem;
+    background-color: aqua;
+    border: 1px solid magenta;
+    border-radius: 10px;
+    margin: 5px;
+    
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
